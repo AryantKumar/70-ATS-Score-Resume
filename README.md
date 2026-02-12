@@ -1,6 +1,6 @@
 # 📄 ATS-Optimized Resume Template (70+ ATS Score)
 
-By **[Aryant Kumar](https://github.com/AryantKumar)** — A professionally crafted LaTeX resume template engineered to **score 70+ on Applicant Tracking Systems (ATS)** while maintaining a clean, modern design that appeals to human recruiters.
+By **[Aryant Kumar](https://github.com/AryantKumar)** — A professionally crafted LaTeX resume template engineered to **score 70+ on Applicant Tracking Systems (ATS)** while maintaining a clean, modern design that appeals to human recruiters or ATS Scanner.
 
 ---
 
