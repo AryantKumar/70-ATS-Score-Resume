@@ -1,6 +1,6 @@
 # 📄 ATS-Optimized Resume Template (80+ ATS Score)
 
-A professionally crafted LaTeX resume template engineered to **score 80+ on Applicant Tracking Systems (ATS)** while maintaining a clean, modern design that appeals to human recruiters.
+By **[Aryant Kumar](https://github.com/AryantKumar)** — A professionally crafted LaTeX resume template engineered to **score 80+ on Applicant Tracking Systems (ATS)** while maintaining a clean, modern design that appeals to human recruiters.
 
 ---
 
@@ -118,8 +118,8 @@ Organize skills by category for both ATS parsing and human readability:
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/resume.git
-cd resume
+git clone https://github.com/AryantKumar/70-ATS-Score-Resume.git
+cd 70-ATS-Score-Resume
 
 # Compile the LaTeX file to PDF
 pdflatex resume.tex
@@ -160,7 +160,7 @@ Open `resume.tex` and edit the placeholder fields:
 | `+1-234-567-8900`       | Your phone number          |
 | `City, State`           | Your location              |
 | `linkedin.com/in/yourname` | Your LinkedIn URL       |
-| `github.com/yourname`   | Your GitHub URL            |
+| `github.com/yourname`      | Your GitHub URL            |
 
 ### Tailoring for Each Job
 1. **Read the job description** carefully.
@@ -195,6 +195,12 @@ Test your resume using these free tools:
 ## 📄 License
 
 This template is free to use and modify for personal and professional purposes. Attribution is appreciated but not required.
+
+---
+
+## 👨‍💻 Author
+
+Created by **[Aryant Kumar](https://github.com/AryantKumar)** — feel free to connect!
 
 ---
 
